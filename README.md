@@ -2,7 +2,7 @@
 
 ### Python Developer | Web Developer | AI Learner
 
-<hr style="height:1px; border:none; background-color:#444;" />
+<hr style="height:0.5px; border:none; background-color:#444;" />
 
 ### 🌐 Connect With Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hareesh25)
@@ -16,10 +16,10 @@
 - 💻 Love building real-world applications
 - 📬 Reach me at **chintadahareesh10@gmail.com**
 
-<hr style="height:1px; border:none; background-color:#444;" />
+<hr style="height:0.5px; border:none; background-color:#444;" />
 
 ### 🛠️ Skills and Languages
-<hr style="height:1px; border:none; background-color:#444;" />
+<hr style="height:0.5px; border:none; background-color:#444;" />
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -51,7 +51,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
-<hr style="height:1px; border:none; background-color:#444;" />
+<hr style="height:0.5px; border:none; background-color:#444;" />
 
 <p align="center">
 
@@ -115,7 +115,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65"/>
 </p>
-<hr style="height:1px; border:none; background-color:#444;" />
+<hr style="height:0.5px; border:none; background-color:#444;" />
 
 ### 🎯 Motivation
 > *Learning every day. Building every week. Growing every month.* 🚀
