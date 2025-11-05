@@ -1,15 +1,12 @@
 # Hey Everyone! I'm Hareesh 👋
 
 ### Python Developer | Web Developer | AI Learner
----
 
 ### 🌐 Connect With Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hareesh25)
 [![Github](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Hareesh2511/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/hareesh_25)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ChintadaHareesh)
-
----
 
 ### 🚀 About Me
 - 🌱 Currently learning **Full Stack & AI**
@@ -20,7 +17,7 @@
 ---
 
 ### 🛠️ Skills and Languages
----
+
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
@@ -51,8 +48,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
-
----
 
 <p align="center">
 
@@ -118,7 +113,6 @@
 
 
 </p>
-
 
 ### 🎯 Motivation
 > *Learning every day. Building every week. Growing every month.* 🚀
