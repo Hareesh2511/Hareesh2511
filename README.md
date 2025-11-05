@@ -53,6 +53,37 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 
 ---
+<p align="center">
+
+<!-- FastAPI -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65"/>
+
+<!-- Flask -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="65" height="65"/>
+
+<!-- Django -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" height="65"/>
+
+<!-- React -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/>
+
+<!-- NumPy -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65"/>
+
+<!-- Pandas -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65"/>
+
+<!-- Matplotlib (custom icon) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="65" height="65"/>
+
+<!-- VSCode -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65"/>
+
+<!-- PyCharm -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65"/>
+
+</p>
+
 
 ### 🎯 Motivation
 > *Learning every day. Building every week. Growing every month.* 🚀
