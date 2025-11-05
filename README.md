@@ -85,7 +85,6 @@
 
 </p>
 
----
 <p align="center">
 
 <!-- FastAPI -->
