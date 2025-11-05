@@ -19,7 +19,6 @@
 <hr style="height:0.5px; border:none; background-color:#444;" />
 
 ### 🛠️ Skills and Languages
-<hr style="height:0.5px; border:none; background-color:#444;" />
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
