@@ -16,7 +16,7 @@
 - 📬 Reach me at **chintadahareesh10@gmail.com**
 
 ##
-<h3><b><samp>Skills and Languages</samp></b></h3>
+### 🛠️ Skills & Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
@@ -47,7 +47,7 @@
   </span>
     
 ##
-<h3><b><samp>Tools and Platform</samp></b></h3>
+#### Tools & IDEs
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
